@@ -1,3 +1,9 @@
+In this repo you can try to fetch data from any Wordpress site which provide REST API using Svelte Kit.
+
+The only main script is you can find on 
+
+`src/routes/+page.svelte`
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
