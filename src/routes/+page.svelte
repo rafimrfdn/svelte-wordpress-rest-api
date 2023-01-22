@@ -4,7 +4,7 @@
   let posts = [];
 
   onMount(async () => {
-    const res = await fetch("https://dzargon.com/wp-json/wp/v2/posts");
+    const res = await fetch("https://example.com/wp-json/wp/v2/posts");
     posts = await res.json();
   });
 </script>
